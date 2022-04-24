@@ -1,6 +1,6 @@
 [submodule "Kubernetes"]
 	path = Kubernetes
-	url = ./Kubernetes
+	url = https://github.com/CleverTechMemes/Kubernetes.git
 [submodule "frontend"]
 	path = frontend
 	url = ./frontend
