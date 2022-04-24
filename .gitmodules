@@ -1,0 +1,12 @@
+[submodule "Kubernetes"]
+	path = Kubernetes
+	url = ./Kubernetes
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
+[submodule "backend"]
+	path = backend
+	url = ./backend
+[submodule "ML"]
+	path = ML
+	url = ./ML
