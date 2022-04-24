@@ -3,10 +3,10 @@
 	url = https://github.com/CleverTechMemes/Kubernetes.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/CleverTechMemes/frontend.git
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/CleverTechMemes/backend.git
 [submodule "ML"]
 	path = ML
-	url = ./ML
+	url = https://github.com/CleverTechMemes/ML.git
